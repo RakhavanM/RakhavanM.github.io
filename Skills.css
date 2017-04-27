@@ -1,0 +1,30 @@
+html{
+    background-image: url(img/bg2.jpg);
+    background-size: cover;
+}
+body {
+    font-family: 'Indie Flower';
+}
+.col-md-3 {
+    margin-top: 90px;
+    margin-right: 13px;
+    margin-left: 13px;
+    margin-bottom: 20px;
+    background-color: rgba(255,255,255,0.4);
+    color: black;
+    border: 2px solid whitesmoke;
+    border-radius: 2px;
+    width: 350px;
+    height: 800px;
+    padding: 2px;
+    text-align: center;
+}
+img {
+    margin: auto;
+    display: block;
+    width: 150px;
+    height: 150px;
+}
+div {
+    font-size: 1.5em;
+}

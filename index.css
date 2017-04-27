@@ -1,0 +1,27 @@
+html{
+    background-image: url(img/bg1.jpg);
+    background-size: cover;
+}
+body {
+    font-family: 'Indie Flower';
+}
+h1 {
+    color: white;
+}
+img {
+    width: 500px;
+    height: 500px;
+    padding: 10px;
+}
+p {
+    font-size: 2em;
+    background-color: whitesmoke;
+    border: 1px solid white;
+    border-radius: 3px 3px 3px 3px;
+}
+.col-md-12 {
+    margin-top: 45px;
+}
+.col-md-12 p{
+    margin: 5px;
+}
