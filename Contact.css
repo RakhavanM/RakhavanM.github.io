@@ -3,7 +3,8 @@ html{
     background-size: cover;
 }
 body {
-    font-family: 'Indie Flower';
+    font-family: "Indie Flower";
+    font-size: x-large;
 }
 .col-md-4 {
     margin-top: 90px;
@@ -18,4 +19,7 @@ body {
     height: 600px;
     padding: 2px;
     text-align: center;
+}
+nav {
+    font-size: large;
 }

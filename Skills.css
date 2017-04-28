@@ -3,7 +3,8 @@ html{
     background-size: cover;
 }
 body {
-    font-family: 'Indie Flower';
+    font-family: "Indie Flower";
+    font-size: x-large;
 }
 .col-md-3 {
     margin-top: 90px;
@@ -25,6 +26,6 @@ img {
     width: 150px;
     height: 150px;
 }
-div {
-    font-size: 1.5em;
+nav {
+    font-size: large;
 }

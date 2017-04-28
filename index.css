@@ -3,7 +3,8 @@ html{
     background-size: cover;
 }
 body {
-    font-family: 'Indie Flower';
+    font-family: "Indie Flower";
+    font-size: x-large;
 }
 h1 {
     color: white;
@@ -14,7 +15,6 @@ img {
     padding: 10px;
 }
 p {
-    font-size: 2em;
     background-color: whitesmoke;
     border: 1px solid white;
     border-radius: 3px 3px 3px 3px;
@@ -24,4 +24,7 @@ p {
 }
 .col-md-12 p{
     margin: 5px;
+}
+nav {
+    font-size: large;
 }
