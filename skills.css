@@ -6,7 +6,7 @@ body {
     font-family: "Indie Flower";
     font-size: x-large;
 }
-.col-md-3 {
+.col-md-3.col-sm-3.col-xs-3 {
     margin-top: 90px;
     margin-right: 13px;
     margin-left: 13px;

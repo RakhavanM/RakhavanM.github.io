@@ -1,13 +1,12 @@
 html{
     background-image: url(img/bg3.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
 }
 body {
     font-family: "Indie Flower";
     font-size: x-large;
 }
-.col-md-3 {
+.col-md-3.col-sm-3.col-xs-3 {
     margin-top: 90px;
     margin-right: 30px;
     margin-left: 30px;
